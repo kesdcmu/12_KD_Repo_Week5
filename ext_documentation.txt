@@ -1,0 +1,8 @@
+Week 5 Extended Documentation 
+
+Pre-work (New Repo)
+1. Rebuild main.db 
+2. Rework and understand prior week answers
+    2a. Practice Tagging with Pre-work 
+3. Verify Run and Start Week 5 Tagging
+
